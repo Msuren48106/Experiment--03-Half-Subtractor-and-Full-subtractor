@@ -57,20 +57,31 @@ The half subractor and full subractor are sucessfully prover
 
 ## Truthtable
 
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/a4faa006-0b25-4609-91d0-754b55863734)
+
+
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/51c4512f-dc0d-4209-94e7-1105119e74e2)
 
 
 ##  RTL realization
 
 half subractor
 
-![digital exp four half adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/fb2cdcc9-0048-4d2a-b14d-a6b61cc52c25)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/12c968a5-a9bd-4661-9b95-ef2be561c10f)
+
 
 full subractor
 
-![digital exp four full adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/1b44d024-b0c5-4a7e-bd30-81fd2aaf4620)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/71756fc7-1bba-4aeb-b963-2fb2f9449931)
+
 
 
 ## Timing diagram 
+
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/0cec1766-f6d0-4049-8b77-bdc817325269)
+
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/3276ec1d-d488-4fdc-bb0a-4e7590dea697)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
