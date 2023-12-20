@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+![digital exp-three full-adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/7df2b088-4d3d-4d34-8eab-125692c19ddf)# Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -34,18 +34,40 @@ Write the detailed procedure here
 
 ## Program:
 /*
+~~~
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: M.suren.
+RegisterNumber:  23005055
+half subractor
+module digitalexpfour(output b,d,input x,y);
+assign d = x^y;
+assign b = ~x&y;
+endmodule
+
+full subractor
+module digitalexpfourone(output b,d,input x,y,z);
+assign d = x^y^z;
+assign b = ~x&(y^z)|y&z;
+endmodule
+~~~
 */
 
-## Output:
+## Output: 
+The half subractor and full subractor are sucessfully prover
 
 ## Truthtable
 
 
 
 ##  RTL realization
+
+half subractor
+
+![digital exp four half adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/fb2cdcc9-0048-4d2a-b14d-a6b61cc52c25)
+
+full subractor
+
+![digital exp four full adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/1b44d024-b0c5-4a7e-bd30-81fd2aaf4620)
 
 
 ## Timing diagram 
