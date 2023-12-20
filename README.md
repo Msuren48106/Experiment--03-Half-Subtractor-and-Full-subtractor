@@ -57,30 +57,36 @@ The half subractor and full subractor are sucessfully prover
 
 ## Truthtable
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/a4faa006-0b25-4609-91d0-754b55863734)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/8f5d5d3d-cb1b-4548-90d3-9ed12aaab3cc)
 
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/51c4512f-dc0d-4209-94e7-1105119e74e2)
+
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/509e45c8-a6bf-43c1-ac35-af234688dd6f)
+
 
 
 ##  RTL realization
 
 half subractor
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/12c968a5-a9bd-4661-9b95-ef2be561c10f)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/b4a73dfb-de85-464e-94c1-dd70b93cdd35)
+
 
 
 full subractor
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/71756fc7-1bba-4aeb-b963-2fb2f9449931)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/0873ed84-48b3-481c-9b90-79c9e693b104)
+
 
 
 
 ## Timing diagram 
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/0cec1766-f6d0-4049-8b77-bdc817325269)
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/376e5a3a-93cc-48fd-b75a-e21b9876f37a)
 
-![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/3276ec1d-d488-4fdc-bb0a-4e7590dea697)
+
+![image](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/2e8b674e-9a26-4fc4-a4c8-03ea66f0a366)
+
 
 
 ## Result:
