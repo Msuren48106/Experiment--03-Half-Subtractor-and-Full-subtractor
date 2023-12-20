@@ -1,4 +1,4 @@
-![digital exp-three full-adder](https://github.com/Msuren48106/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150503875/7df2b088-4d3d-4d34-8eab-125692c19ddf)# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
